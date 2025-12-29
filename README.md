@@ -48,3 +48,4 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 - **LinkedIn:** [Fiza Tanzeem Ahamed S](https://www.linkedin.com/in/fiza-tanzeem-7009262b6/)
 - **GitHub:** [Fizzza777](https://github.com/Fizzza777)
 - **Instagram:** [@fizza_zaza](https://www.instagram.com/fizza_zaza/)
+- **Email:** [fizatanzeem6@gmail.com](mailto:fizatanzeem6@gmail.com)
